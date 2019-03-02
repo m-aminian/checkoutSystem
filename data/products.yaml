@@ -1,0 +1,13 @@
+"a9001":
+  name: "Apple TV"
+  price: 2000
+  discount: threeForTwo
+"a9002":
+  name: "iPad"
+  price: 1500
+  discount: bulkDiscount
+"a9003":
+  name: "MacBook Pro"
+  price: 2500
+  discount: bundle
+  freebie: "VGA adapter"
